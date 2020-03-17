@@ -1,1 +1,1 @@
-![alt-text](https://octodex.github.com/daftpunktocat-guy/)
+![alt-text](https://octodex.github.com/octogatos/)
