@@ -1,1 +1,1 @@
-[greenstone](Greenstone.jpg)
+[greenstone](https://octodex.github.com/daftpunktocat-guy/)
